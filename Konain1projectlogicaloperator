@@ -1,0 +1,15 @@
+#logical and operator 
+a = True
+b = False
+result = a and b  # result will be False, because b is False
+log
+
+#logical or operator
+a = True
+b = False
+result = a or b  # result will be True, because a is True
+
+#logical not a operator 
+a = True
+result = not a  # result will be False
+
